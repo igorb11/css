@@ -1,0 +1,14 @@
+body{
+	background-color: gray;
+	font-size: 12px;
+}
+h1{
+	color: #9b59b6;
+}
+p{background-color: yellow}
+.hello {
+	background-color: white;
+}
+#special{
+	border:1px blue solid;
+}
